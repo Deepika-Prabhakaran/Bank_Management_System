@@ -10,7 +10,7 @@ This project is a Java-based application for managing customer banking activitie
 4. **Instant Payment Transfer**
 5. **Order Cheque Book**
 
-## What You Are Going to Learn in This Project:
+## What I Learnt in This Project:
 
 1. Complete Project is created with JSwings.
 2. Complete MYSQL Database Integrations with this project.
