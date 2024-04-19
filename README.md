@@ -44,12 +44,13 @@ This project is a Java-based application for managing customer banking activitie
 3. After successful login, users can access various modules such as account balance, utility bill payment, etc.
 4. Each module provides functionality as described in the project description.
 5. Users can navigate between different frames using the provided navigation options.
+   
+## Contributor:
+Deepika Prabhakaran (https://github.com/Deepika-Prabhakaran)
 
 ## Contributing:
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
-## License:
 
-This project is licensed under the [MIT License](LICENSE).
 
